@@ -1,0 +1,26 @@
+{
+    "navbar": {
+        "about": "About Me",
+        "projects": "Projects",
+        "career": "Career",
+        "colorModes": {
+            "light": "Light",
+            "dark": "Dark",
+            "system": "System"
+        }
+    },
+    "about": {
+        "title": "Designing, Coding and Making it Real",
+        "name": "Yunus Emre Arslan",
+        "job": "Designer & Front-end Developer",
+        "desc": "My interest in design, which started in childhood, continued with me until university. During my university years, interface design and user experience became topics I cared deeply about. Then, a question struck my mind: Why am I not coding the interfaces I design? This question led me to seriously research the Front-end field and start coding the interfaces I designed. This process gave me the ability to build a bridge between software and design. <br><br><span class='font-bold'>‘Can I convey it in a simpler way?’</span> is a question I always ask myself in my work. If I have an answer to this question, I don't hesitate to scrap my work and start over. <br><br>I continue to research current design trends and front-end technologies and improve myself. In my free time, I enjoy learning about topics related to my field but from different areas because to be successful in your field, it is not enough to focus on just one area; it is important to be a multidisciplinary person to gain different perspectives."
+    },
+    "education": {
+        "title": "Education",
+        "medipol": "Medipol University",
+        "degree": "Visual Communication Design Program",
+        "scholarship": "100% Scholarship",
+        "startDate": "Start Date:",
+        "endDate": "End Date:"
+    }
+}

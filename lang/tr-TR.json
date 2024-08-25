@@ -1,0 +1,28 @@
+{
+    "navbar":{
+        "about":"Hakkımda",
+        "projects":"Projeler",
+        "career":"Kariyer",
+        "colorModes":{
+            "light":"Açık",
+            "dark":"Koyu",
+            "system":"Sistem"
+        }
+    },
+    "about":{
+        "title":"Tasarlıyor, Kodluyor ve Gerçeğe Dönüştürüyorum",
+        "name":"Yunus Emre Arslan",
+        "job":"Tasarımcı & Front-end Developer",
+        "desc":"Çocukluktan başlayan tasarım merakım üniversiteye kadar benimle devam etti. Üniversite dönemimde arayüz tasarımı ve kullanıcı deneyimi, önem verdiğim konular haline geldi. Sonra aklıma bir soru takıldı: Tasarladığım arayüzleri neden ben kodlamıyorum? Bu soru ile beraber Front-end alanında ciddi araştırmalar yapmaya başladım ve tasarladığım arayüzleri kodlamaya başladım. Bu süreç, bana yazılım ve tasarım arasında bir köprü kurma yeteneği kazandırdı. <br><br><span class='font-bold'>‘Daha sade şekilde aktarabilir miyim?’</span> sorusunu çalışmalarımda her zaman kendime sorarım. Eğer bu soruya bir cevabım varsa, yaptığım işi çöpe atıp yeniden yapmaktan çekinmem. <br><br>Güncel tasarım trendlerini ve front-end teknolojilerini araştırmaya ve kendimi geliştirmeye devam ediyorum. Boş vakitlerimde, alanımla alakalı fakat farklı konulardan da bilgiler öğrenmeyi seviyorum çünkü alanında başarılı olmak için sadece tek alana odaklanmak yetmez; farklı perspektifler kazanabilmek için multidisipliner bir insan olabilmek önemlidir."
+    },
+    "education":{
+        "title":"Eğitim",
+        "medipol": "Medipol Üniversitesi",
+        "degree":"Görsel İletişim Tasarımı Programı",
+        "scholarship":"%100 Burslu",
+        "startDate":"Başlangıç Tarihi:",
+        "endDate":"Bitiş Tarihi:"
+        
+        
+    }
+}
