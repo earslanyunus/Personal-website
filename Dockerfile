@@ -10,6 +10,7 @@ FROM base AS build
 WORKDIR /app
 COPY --from=dependencies /app/node_modules ./node_modules
 COPY . .
+RUN pnpm run build
 
 EXPOSE 3000
 
