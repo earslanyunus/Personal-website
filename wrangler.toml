@@ -1,0 +1,11 @@
+# Configuration for Cloudflare Workers with Nuxt.js
+name = "personal-website"
+main = "./.output/server/index.mjs"
+compatibility_date = "2023-06-28"
+nodejs_compat = true
+
+# Configure Workers for Nuxt.js
+[site]
+bucket = ".output/public"
+
+

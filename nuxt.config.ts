@@ -23,6 +23,12 @@ export default defineNuxtConfig({
     lazy: true,
     langDir: 'lang',
     defaultLocale: 'tr'
+  },
+  // Configure Nitro for Cloudflare Workers
+  nitro: {
+    preset: 'cloudflare',
+    prerender: {
+      autoSubfolderIndex: false // Match Cloudflare route matching rules
+    }
   }
-  
 })
