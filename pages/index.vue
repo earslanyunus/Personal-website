@@ -44,7 +44,7 @@ const socialAccounts = [
             }
 
         },
-        url:'https://www.behance.net/yyunusearslan'
+        url:'https://www.behance.net/earslanyunus'
     },
  
     {
